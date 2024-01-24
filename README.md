@@ -35,11 +35,4 @@
 </div>
 </div>
 
-<h2 align="left">GitHub Stats</h2> 
-
-
-</a>
-<br><br>
-
-
 
